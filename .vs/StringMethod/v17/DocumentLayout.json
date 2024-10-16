@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BLACK\\source\\repos\\StringMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E89E200-75F7-48B7-8AED-793F3FFFCA9B}|StringMethod.csproj|c:\\users\\black\\source\\repos\\stringmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E89E200-75F7-48B7-8AED-793F3FFFCA9B}|StringMethod.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E89E200-75F7-48B7-8AED-793F3FFFCA9B}|StringMethod.csproj|c:\\users\\black\\source\\repos\\stringmethod\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E89E200-75F7-48B7-8AED-793F3FFFCA9B}|StringMethod.csproj|solutionrelative:phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E89E200-75F7-48B7-8AED-793F3FFFCA9B}|StringMethod.csproj|c:\\users\\black\\source\\repos\\stringmethod\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E89E200-75F7-48B7-8AED-793F3FFFCA9B}|StringMethod.csproj|solutionrelative:notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E89E200-75F7-48B7-8AED-793F3FFFCA9B}|StringMethod.csproj|c:\\users\\black\\source\\repos\\stringmethod\\product .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E89E200-75F7-48B7-8AED-793F3FFFCA9B}|StringMethod.csproj|solutionrelative:product .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E89E200-75F7-48B7-8AED-793F3FFFCA9B}|StringMethod.csproj|c:\\users\\black\\source\\repos\\stringmethod\\stringmethod.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E89E200-75F7-48B7-8AED-793F3FFFCA9B}|StringMethod.csproj|solutionrelative:stringmethod.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Notebook.cs",
+              "DocumentMoniker": "C:\\Users\\BLACK\\source\\repos\\StringMethod\\Notebook.cs",
+              "RelativeDocumentMoniker": "Notebook.cs",
+              "ToolTip": "C:\\Users\\BLACK\\source\\repos\\StringMethod\\Notebook.cs",
+              "RelativeToolTip": "Notebook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:54:52.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\BLACK\\source\\repos\\StringMethod\\Phone.cs",
+              "RelativeDocumentMoniker": "Phone.cs",
+              "ToolTip": "C:\\Users\\BLACK\\source\\repos\\StringMethod\\Phone.cs",
+              "RelativeToolTip": "Phone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:53:36.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StringMethod.csproj",
+              "DocumentMoniker": "C:\\Users\\BLACK\\source\\repos\\StringMethod\\StringMethod.csproj",
+              "RelativeDocumentMoniker": "StringMethod.csproj",
+              "ToolTip": "C:\\Users\\BLACK\\source\\repos\\StringMethod\\StringMethod.csproj",
+              "RelativeToolTip": "StringMethod.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T08:51:18.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product .cs",
+              "DocumentMoniker": "C:\\Users\\BLACK\\source\\repos\\StringMethod\\Product .cs",
+              "RelativeDocumentMoniker": "Product .cs",
+              "ToolTip": "C:\\Users\\BLACK\\source\\repos\\StringMethod\\Product .cs",
+              "RelativeToolTip": "Product .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:53:09.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BLACK\\source\\repos\\StringMethod\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\BLACK\\source\\repos\\StringMethod\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:31:00.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

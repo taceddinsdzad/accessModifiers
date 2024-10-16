@@ -1,0 +1,14 @@
+C:\Users\BLACK\source\repos\StringMethod\bin\Debug\net6.0\StringMethod.exe
+C:\Users\BLACK\source\repos\StringMethod\bin\Debug\net6.0\StringMethod.deps.json
+C:\Users\BLACK\source\repos\StringMethod\bin\Debug\net6.0\StringMethod.runtimeconfig.json
+C:\Users\BLACK\source\repos\StringMethod\bin\Debug\net6.0\StringMethod.dll
+C:\Users\BLACK\source\repos\StringMethod\bin\Debug\net6.0\StringMethod.pdb
+C:\Users\BLACK\source\repos\StringMethod\obj\Debug\net6.0\StringMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BLACK\source\repos\StringMethod\obj\Debug\net6.0\StringMethod.AssemblyInfoInputs.cache
+C:\Users\BLACK\source\repos\StringMethod\obj\Debug\net6.0\StringMethod.AssemblyInfo.cs
+C:\Users\BLACK\source\repos\StringMethod\obj\Debug\net6.0\StringMethod.csproj.CoreCompileInputs.cache
+C:\Users\BLACK\source\repos\StringMethod\obj\Debug\net6.0\StringMethod.dll
+C:\Users\BLACK\source\repos\StringMethod\obj\Debug\net6.0\refint\StringMethod.dll
+C:\Users\BLACK\source\repos\StringMethod\obj\Debug\net6.0\StringMethod.pdb
+C:\Users\BLACK\source\repos\StringMethod\obj\Debug\net6.0\StringMethod.genruntimeconfig.cache
+C:\Users\BLACK\source\repos\StringMethod\obj\Debug\net6.0\ref\StringMethod.dll
